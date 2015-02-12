@@ -8,11 +8,11 @@ namespace MvcApplication1.Controllers
 {
     public class HomeController : Controller
     {
-        public String Index()
+        public ActionResult Index()
         {
             
 
-            return "Hello World";
+            return View();
         }
 
         public ActionResult About()
