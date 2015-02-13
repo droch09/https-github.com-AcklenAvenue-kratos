@@ -164,3 +164,9 @@ C:\Users\compa\kratos\MvcApplication1\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\compa\kratos\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
 C:\Users\compa\kratos\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\Users\compa\kratos\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\compa\kratos\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\compa\kratos\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\compa\kratos\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\compa\kratos\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\compa\kratos\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\compa\kratos\MvcApplication1\bin\System.Web.Http.WebHost.xml
